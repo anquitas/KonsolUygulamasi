@@ -1,0 +1,6 @@
+D:\repo\KonsolUygulamasi\KonsolUygulamasi\bin\Debug\KonsolUygulamasi.dll
+D:\repo\KonsolUygulamasi\KonsolUygulamasi\bin\Debug\KonsolUygulamasi.pdb
+D:\repo\KonsolUygulamasi\KonsolUygulamasi\obj\Debug\KonsolUygulamasi.csproj.AssemblyReference.cache
+D:\repo\KonsolUygulamasi\KonsolUygulamasi\obj\Debug\KonsolUygulamasi.csproj.CoreCompileInputs.cache
+D:\repo\KonsolUygulamasi\KonsolUygulamasi\obj\Debug\KonsolUygulamasi.dll
+D:\repo\KonsolUygulamasi\KonsolUygulamasi\obj\Debug\KonsolUygulamasi.pdb
